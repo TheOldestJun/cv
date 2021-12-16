@@ -10,7 +10,7 @@ export default class About extends Component {
               <strong>Stanislav Pukha</strong>
             </h2>
             <h5 className="brown-text text-darken-2 right-align">
-              Full Stack Web Developer
+              Junior Full Stack Web Developer
             </h5>
           </div>
         </div>
