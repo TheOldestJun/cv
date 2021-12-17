@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contactInfo p {
+    line-height: 30px;
+}
+.sameHeight {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+.wrap-content {
+    margin: 50px 0 50px 0;
+}
+.avatarimg img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 200px;
+}
+.social i {
+    padding: 2px;
+    color: rgb(68,68.68);
+}
+.mt {
+    margin-top: 20px;
+}
+.pt {
+    padding-top: 10px;
+}
