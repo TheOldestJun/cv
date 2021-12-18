@@ -13,6 +13,30 @@ export default class Educations extends Component {
               </strong>
             </h6>
             <hr />
+            <div  className="row mt">
+              <div className="col s12">
+                <blockquote>
+                  <h6 className="brown-text text-darken-4">
+                    <strong>Bachelor in software ingeneering</strong>
+                    <span>2002-2008</span>
+                  </h6>
+                  <p className="pt brown-text text-darken-4">
+                    National Mining Univercity of Ukraine
+                  </p>
+                </blockquote>
+              </div>
+              <div className="col s12">
+                <blockquote>
+                  <h6 className="brown-text text-darken-4">
+                    <strong>Master in software ingeneering</strong>
+                    <span>2008-2010</span>
+                  </h6>
+                  <p className="pt brown-text text-darken-4">
+                    National Mining Univercity of Ukraine
+                  </p>
+                </blockquote>
+              </div>
+            </div>
           </div>
         </div>
       </div>
