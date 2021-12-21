@@ -7,13 +7,11 @@ export default class Educations extends Component {
         <div className="card brown lighten-3 z-depth-0">
           <div className="card-content">
             <h6 className="brown-text text-darken-4">
-              <strong>
-                <i className="fas fa-graduation-cap"></i>
-                EDUCATION
-              </strong>
+              <i className="fas fa-graduation-cap"></i>
+              <strong className="ml">EDUCATION</strong>
             </h6>
             <hr />
-            <div  className="row mt">
+            <div className="row mt">
               <div className="col s12">
                 <blockquote>
                   <h6 className="brown-text text-darken-4">

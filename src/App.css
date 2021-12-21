@@ -38,6 +38,9 @@ a {
 .pt {
     padding-top: 10px;
 }
+.ml{
+    margin-left: 10px;
+}
 h5 {
     font-size: 30px;
     padding-bottom: 10px;
