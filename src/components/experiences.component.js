@@ -31,7 +31,7 @@ export default class Experiences extends Component {
                 <blockquote>
                   <h6 className="brown-text text-darken-4">
                     <strong>SENIOR SUPPLY MANAGER</strong>
-                    <span>2008 - ...</span>
+                    <span>2010 - ...</span>
                   </h6>
                   <p className="pt brown-text text-darken-4">
                     Carry out a full cycle of supplying an enterprise for 300

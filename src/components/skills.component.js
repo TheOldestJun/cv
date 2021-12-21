@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import goIt from "../img/goIT.png";
 
 export default class Skills extends Component {
   render() {
@@ -69,6 +70,26 @@ export default class Skills extends Component {
                     style={{ width: "30%" }}
                   ></div>
                 </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="card brown lighten-1 z-depth-0">
+          <div className="card-content">
+            <h6 className="white-text">
+              <i class="fas fa-briefcase"></i>
+              <strong className="ml">SERTIFICATES</strong>
+            </h6>
+            <hr />
+            <div className="row pt">
+              <div className="col m6 s12">
+                <a href={goIt} target="blank">
+                  <img
+                    src={goIt}
+                    alt="GoIt sertificate"
+                    className="col s12 m12 l12"
+                  />
+                </a>
               </div>
             </div>
           </div>
