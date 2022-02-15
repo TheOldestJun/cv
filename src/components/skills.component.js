@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import goIt from "../img/goIT.png";
+import ukrCfg from '../img/cyfrogram.pdf'
 
 export default class Skills extends Component {
   render() {
@@ -87,6 +88,17 @@ export default class Skills extends Component {
                   <img
                     src={goIt}
                     alt="GoIt sertificate"
+                    className="col s12 m12 l12"
+                  />
+                </a>
+              </div>
+            </div>
+            <div className="row pt">
+              <div className="col m6 s12">
+                <a href={ukrCfg} target="blank">
+                  <img
+                    src={ukrCfg}
+                    alt="Cyfrogram"
                     className="col s12 m12 l12"
                   />
                 </a>
