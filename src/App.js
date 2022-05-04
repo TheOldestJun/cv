@@ -8,10 +8,10 @@ import "./App.css";
 function App() {
   return (
     <BrowserRouter>
-      <div className="wrap-content">
-        <div className="container brown lighten-2">
+      <div className='wrap-content'>
+        <div className='container teal lighten-2'>
           <Routes>
-            <Route path="/" exact element={<Home />} />
+            <Route path='/' exact element={<Home />} />
           </Routes>
         </div>
       </div>
